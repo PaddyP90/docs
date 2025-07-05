@@ -145,6 +145,9 @@ It is possible to overclock your radxa for higher bitrate performance.
 ## About Adaptive Link
 
 This service will only trigger when enables on the camera for bidirectional link.
+  Enable Adaptive link via the companion 
+  (Note - If you are using the latest PnP firmware then alink is enabled by default )
+
 
 ## Result
 
